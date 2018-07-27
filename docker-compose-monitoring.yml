@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  monitoring:
+    image: monitoring
+    build:
+      context: .\monitoring
+      dockerfile: Dockerfile
+
+networks:
+  default:
+    external:
+      name: local_development_network

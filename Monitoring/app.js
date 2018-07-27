@@ -3,7 +3,7 @@
 var redis = require('redis');
 var log = require('single-line-log').stdout;
 
-var client = redis.createClient(6379, '127.0.0.1');
+var client = redis.createClient(6379, 'redis');
 
 client.on('connect', function () {
     console.log('[REDIS] client connected');

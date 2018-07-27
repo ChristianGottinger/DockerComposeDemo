@@ -4,7 +4,7 @@ services:
   longrunningapp:
     image: longrunningapp
     build:
-      context: .
+      context: .\longrunningapp
       dockerfile: Dockerfile
     depends_on:
       - redis
@@ -13,3 +13,8 @@ services:
     image: redis
     ports:
       - "6379:6379"
+
+networks:
+  default:
+    external:
+      name: local_development_network
