@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  longrunningapp:
+    image: longrunningapp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    depends_on:
+      - redis
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"

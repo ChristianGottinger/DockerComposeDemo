@@ -1,0 +1,3 @@
+C:\Data\Playground\DockerRedisNetCore\Monitoring\obj\Debug\Monitoring.njsprojResolveAssemblyReference.cache
+C:\Data\Playground\DockerRedisNetCore\Monitoring\obj\Debug\Monitoring.njsproj.CoreCompileInputs.cache
+C:\Data\Playground\DockerRedisNetCore\Monitoring\bin\Microsoft.NodejsTools.WebRole.dll

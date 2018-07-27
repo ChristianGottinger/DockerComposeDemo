@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LongrunningApp": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost"
+    }
+  }
+}

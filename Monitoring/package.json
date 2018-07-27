@@ -1,0 +1,16 @@
+{
+  "name": "monitoring",
+  "version": "0.0.0",
+  "description": "Monitoring",
+  "main": "app.js",
+  "author": {
+    "name": "Chris"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "redis": "^2.8.0",
+    "single-line-log": "^1.1.2"
+  }
+}

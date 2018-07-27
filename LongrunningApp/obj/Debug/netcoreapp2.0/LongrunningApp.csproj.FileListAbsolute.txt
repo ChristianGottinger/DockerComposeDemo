@@ -1,0 +1,11 @@
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\bin\Debug\netcoreapp2.0\LongrunningApp.deps.json
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\bin\Debug\netcoreapp2.0\LongrunningApp.runtimeconfig.json
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\bin\Debug\netcoreapp2.0\LongrunningApp.runtimeconfig.dev.json
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\bin\Debug\netcoreapp2.0\LongrunningApp.dll
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.csprojResolveAssemblyReference.cache
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.csproj.CoreCompileInputs.cache
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.AssemblyInfoInputs.cache
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.AssemblyInfo.cs
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\bin\Debug\netcoreapp2.0\LongrunningApp.pdb
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.dll
+C:\Data\Playground\DockerRedisNetCore\LongrunningApp\obj\Debug\netcoreapp2.0\LongrunningApp.pdb
